@@ -1,7 +1,6 @@
 # Expense Tracker: Personal Finance
 
-A private, offline Windows app that helps everyday people understand and take
-control of their spending — your data stays on your own computer.
+A simple Windows app for everyday people who want to understand their spending. Everything runs offline on your own PC — your financial data is never uploaded, shared, or seen by anyone but you.
 
 ## Download
 
@@ -12,10 +11,10 @@ Works on Windows 10 and 11. No account, no cloud — everything stays on your PC
 
 ## What it does
 
-- Import your bank statements and automatically sort transactions into categories
-- See where your money actually goes, in plain language
-- Plan ahead with a yearly savings forecast
-- Track loans and savings goals
+- Import your bank statements, categorise once, never again. When you label a transaction, the app learns it — so future statements sort themselves automatically.
+- See where your money actually goes, in plain language or through charts.
+- Plan ahead with a yearly savings forecast.
+- Track loans and savings goals.
 
 ---
 
